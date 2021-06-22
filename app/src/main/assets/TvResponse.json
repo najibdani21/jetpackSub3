@@ -1,0 +1,74 @@
+{
+  "tvshow": [
+    {
+      "id": "b14",
+      "title": "WandaVision",
+      "description": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
+      "genre": "Action, Comedy, Drama",
+      "imagePath": "https://img-highend.okezone.com/okz/900/pictureArticle/images_q7fQ7x08_X2O17h.jpg"
+    },
+    {
+      "id": "b24",
+      "title": "The Falcon And The Winter Soldier",
+      "description": "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.",
+      "genre": "Action, Adventure, Drama",
+      "imagePath": "https://img-highend.okezone.com/okz/900/pictureArticle/images_01D4nQr1_N8jI24.jpg"
+    },
+    {
+      "id": "b55",
+      "title": "Loki",
+      "description": "A new Marvel chapter with Loki at its center.",
+      "genre": "Action, Adventure, Fantasy",
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNS1rOqrP3sceqCSNMlJtuvI-SKJ7_VgM8w&usqp=CAU"
+    },
+    {
+      "id": "a75",
+      "title": "Shang-Chi",
+      "description": "The movie, based on Marvel Comics, will focus on Shang-Chi; 'The Master of Kung-Fu'.",
+      "genre": "Action, Adventure, Fantasy",
+      "imagePath": "https://whatsondisneyplus.com/wp-content/uploads/2021/04/EzVs6FVVcAUzIeh.jpg"
+    },
+    {
+      "id": "b65",
+      "title": "Hawkeye",
+      "description": "Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate Bishop, who took on the role after the original Avenger, Clint Barton.",
+      "genre": "Action, Adventure, Crime",
+      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9IQSgpl2VueeDdpyYLUA8QCsT3gOb7qDPTA&usqp=CAU"
+    },
+    {
+      "id": "b47",
+      "title": "She HULK",
+      "description": "Jennifer Walters acquires Hulk-like qualities.",
+      "genre": "Action, Adventure, Comedy",
+      "imagePath": "https://m.media-amazon.com/images/M/MV5BYmE5NDcxYTUtNmQ1Mi00Y2JkLTkxNDYtMzkzNzk5MjVmYmIzXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg"
+    },
+    {
+      "id": "b49",
+      "title": "Eternals",
+      "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+      "genre": "Action, Adventure, Drama",
+      "imagePath": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Eternals_poster.jpeg/220px-Eternals_poster.jpeg"
+    },
+    {
+      "id": "b50",
+      "title": "Armor Wars",
+      "description": "Find out in this series what would happen if Tony Stark's tech fell into the wrong hands.",
+      "genre": "Action, Adventure, Drama",
+      "imagePath": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d0b9ecb1-870c-4553-bf63-707fecf01958/ddepxwq-e3f57197-1985-4eb9-9a6a-fbb522f2bd81.png"
+    },
+    {
+      "id": "b74",
+      "title": "Moon Knight",
+      "description": "Marc Spector is a former CIA agent whose life is saved by the Moon God, Khonshu.",
+      "genre": "Action, Adventure, Drama",
+      "imagePath": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d0b9ecb1-870c-4553-bf63-707fecf01958/ddepxwq-e3f57197-1985-4eb9-9a6a-fbb522f2bd81.png"
+    },
+    {
+      "id": "b51",
+      "title": "Agents of S.H.I.E.L.D.",
+      "description": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+      "genre": "Action, Adventure, Drama",
+      "imagePath": "https://static.wikia.nocookie.net/marveldatabase/images/3/30/Marvel%27s_Agents_of_S.H.I.E.L.D._poster_001.jpg/revision/latest?cb=20130805041337"
+    }
+  ]
+}
